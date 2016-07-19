@@ -1,4 +1,6 @@
 # Springboard Repo
 Springboard's Data Science Intensive Workshop
 
-This is my test change.
+Three potential capstone project ideas:
+
+* #1: 
